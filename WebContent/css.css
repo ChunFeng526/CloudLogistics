@@ -1,0 +1,36 @@
+﻿@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fjalla One'), local('FjallaOne-Regular'), url(s/fjallaone/v5/Yq6R-LCAWCX3-6Ky7FAFrO96lw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'), url(s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYhQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Poppins Light'), local('Poppins-Light'), url(s/poppins/v5/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins Regular'), local('Poppins-Regular'), url(s/poppins/v5/pxiEyp8kv8JHgFVrJJnedw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(s/poppins/v5/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Poppins Bold'), local('Poppins-Bold'), url(s/poppins/v5/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf) format('truetype');
+}

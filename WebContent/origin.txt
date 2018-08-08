@@ -1,0 +1,380 @@
+Uri: http://www.liland.vip/
+File Name: c:\Downloaded Web Sites\www.liland.vip\index.htm
+Content Type: text/html
+
+Uri: http://www.liland.vip/ico/apple-touch-icon-144-precomposed.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\ico\apple-touch-icon-144-precomposed.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/ico/apple-touch-icon-114-precomposed.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\ico\apple-touch-icon-114-precomposed.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/ico/apple-touch-icon-72-precomposed.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\ico\apple-touch-icon-72-precomposed.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/ico/apple-touch-icon-57-precomposed.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\ico\apple-touch-icon-57-precomposed.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/ico/favicon.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\ico\favicon.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/revolution/css/settings.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\css\settings.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/flaticon.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\flaticon.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/jquery.fancybox.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/odometer.min.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\odometer.min.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/base.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\base.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/css/style.css
+File Name: c:\Downloaded Web Sites\www.liland.vip\css\style.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/en.html
+File Name: c:\Downloaded Web Sites\www.liland.vip\en.htm
+Content Type: text/html
+
+Uri: http://www.liland.vip/index.html
+File Name: c:\Downloaded Web Sites\www.liland.vip\index-1.htm
+Content Type: text/html
+
+Uri: http://www.liland.vip/fn.html
+File Name: c:\Downloaded Web Sites\www.liland.vip\fn.htm
+Content Type: text/html
+
+Uri: http://www.liland.vip/down/liland.pdf
+File Name: c:\Downloaded Web Sites\www.liland.vip\down\liland.pdf
+Content Type: application/pdf
+
+Uri: http://www.liland.vip/videos/cn.mp4
+File Name: c:\Downloaded Web Sites\www.liland.vip\videos\cn.mp4
+Content Type: video/mp4
+
+Uri: http://www.liland.vip/videos/cn1.mp4
+File Name: c:\Downloaded Web Sites\www.liland.vip\videos\cn1.mp4
+Content Type: video/mp4
+
+Uri: http://www.liland.vip/images/logo-light.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo-light.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo-dark.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo-dark.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/hero1.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/icon1.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\icon1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/icon2.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\icon2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/icon3.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\icon3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/icon4.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\icon4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/video-image.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\video-image.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/hero2.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\hero2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/hero3.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\hero3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/project1.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\project1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/project2.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\project2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/project3.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\project3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/project4.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\project4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/project6.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\project6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/headshot1.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\headshot1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/headshot2.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\headshot2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/headshot3.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\headshot3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/headshot4.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\headshot4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/headshot5.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\headshot5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/side-image2.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\side-image2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/logo1.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo1.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo2.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo2.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo3.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo3.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo4.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo4.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo5.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo5.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo6.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo6.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo7.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo7.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo8.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo8.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/logo9.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\logo9.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/icon-support.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\icon-support.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/jPushMenu.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\jPushMenu.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/odometer.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/jquery.fancybox.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/wow.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/masonry.pkgd.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/js/scripts.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/jquery.themepunch.tools.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/jquery.themepunch.revolution.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/revolution/js/extensions/revolution.extension.video.min.js
+File Name: c:\Downloaded Web Sites\www.liland.vip\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://www.liland.vip/fonts/Flaticon.eot
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.liland.vip/fonts/Flaticon.woff
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: http://www.liland.vip/fonts/Flaticon.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\Flaticon.pxc
+Content Type: application/octet-stream
+
+Uri: http://www.liland.vip/fonts/Flaticon.svg
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://www.liland.vip/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.liland.vip/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\fontawesome-webfont.pxc
+Content Type: application/octet-stream
+
+Uri: http://www.liland.vip/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://www.liland.vip/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\fontawesome-webfont-1.pxc
+Content Type: application/octet-stream
+
+Uri: http://www.liland.vip/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Fjalla+One|Playfair+Display|Poppins:300,400,600,700&subset=latin-ext
+File Name: c:\Downloaded Web Sites\www.liland.vip\css.css
+Content Type: text/css
+
+Uri: http://www.liland.vip/images/colorful-bar.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\colorful-bar.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/right-bg.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\right-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/images/right-image-mask.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\right-image-mask.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/left-image-mask.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\left-image-mask.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/process-circles.png
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\process-circles.png
+Content Type: image/png
+
+Uri: http://www.liland.vip/images/form-bg.jpg
+File Name: c:\Downloaded Web Sites\www.liland.vip\images\form-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.liland.vip/fonts/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\www.liland.vip\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fonts.gstatic.com/s/fjallaone/v5/Yq6R-LCAWCX3-6Ky7FAFrO96lw.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\s\fjallaone\v5\Yq6R-LCAWCX3-6Ky7FAFrO96lw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v13/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYhQ.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\s\playfairdisplay\v13\nuFiD-vYSZviVYUb_rj3ij__anPXDTLYhQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\s\poppins\v5\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\s\poppins\v5\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\s\poppins\v5\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: c:\Downloaded Web Sites\www.liland.vip\s\poppins\v5\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
